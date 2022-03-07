@@ -17,7 +17,7 @@
  <br>
  
   ### Para mais contato comigo me segue nas redes aí em baixo!
-  ##### (🤫OBS: ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)
+  ##### 🤫(OBS: ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)
  
 <div>
   <a href="https://www.instagram.com/50repolhoscozidos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
