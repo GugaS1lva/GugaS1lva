@@ -1,4 +1,4 @@
-<h1 align="center">Seja Bem-Vindo ao perfil do GugaS1lva!</h1>
+<h1>Seja Bem-Vindo ao perfil do GugaS1lva!</h1>
 <div>
   <a href="https://github.com/GugaS1lva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
