@@ -25,5 +25,8 @@
   <a href = "mailto:contatogustavosilva017@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
+  
+   ## Total de visitas ao meu perfil 🧑🏻‍💻☕
+ <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/GugaS1lva/count.svg" />
 
 </div>
