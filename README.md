@@ -23,7 +23,7 @@
 <br><br><br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif" />&nbsp;&nbsp;&nbsp;
+<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
@@ -221,150 +221,225 @@
 </p>
 <br><br><br>
 
-<!-- <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <img align="right" src="./images/cyberpunk.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Portfolio-GugaSilva" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Portfolio-GugaSilva&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/GymProject_Master" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GymProject_Master&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/HooBank_Master" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=HooBank_Master&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/RocketPay" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=RocketPay&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Fr.Mentor-10--Interactive_Rating_Component" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Fr.Mentor-10--Interactive_Rating_Component&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/GitHub-API_Profile.Search" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GitHub-API_Profile.Search&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/TT-Musical.Weather.Forecast" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=TT-Musical.Weather.Forecast&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-     <a href="https://github.com/desenvjonathan/responsive03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true">
+     <a href="https://github.com/GugaS1lva/Pokedex-01" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Pokedex-01&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/responsive02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Testing-Things" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Testing-Things&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/responsive01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Copa-Model.Project" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Copa-Model.Project&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/nlw-esports-explorer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/DevQuest-Conteudo" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=DevQuest-Conteudo&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/what-i-watch" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/DevQuest-Desafios" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=DevQuest-Desafios&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/form03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Adolescencia-E-Violencia" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Adolescencia-E-Violencia&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/form02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Nebulous-Astronaut" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Nebulous-Astronaut&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/form01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Grupo-Plan-Marketing" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Grupo-Plan-Marketing&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/layout03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/GugaT-017--GugaCard" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-017--GugaCard&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/layout02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/ignitelab-designsystem" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=ignitelab-designsystem&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/layout01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/GugaS1lva/Fr.Mentor-11--Advice_Generator-App" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Fr.Mentor-11--Advice_Generator-App&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-018--Dark-N-Light-Theme-Switcher" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-018--Dark-N-Light-Theme-Switcher&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/Fr.Mentor-08--Fylo.Dark_Master" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Fr.Mentor-08--Fylo.Dark_Master&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-008--Pokedex" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-008--Pokedex&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/Fr.Mentor-05--Purpure.Huddle" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Fr.Mentor-05--Purpure.Huddle&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-005--Agencia.XPTO" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-005--Agencia.XPTO&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-007--Purpure.Newslatter" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-007--Purpure.Newslatter&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-006--Agencia.XYZ" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-006--Agencia.XYZ&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/GugaT-004--Code.Cafe" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=GugaT-004--Code.Cafe&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/ProjetoCordel" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=ProjetoCordel&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/GugaS1lva/ProjetoAndroid" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=ProjetoAndroid&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
 </table>
 <br>
 
-<h2 align="center"> -->
-<!-- <details open>
+<h2 align="center">
+<details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=GugaS1lva&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaS1lva&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&custom_title=GugaS1lva's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaS1lva&theme=tokyonight&hide_border=true">
+</div>
+<div align="center">
+  <a href="https://github.com/GugaS1lva">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaS1lva&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 </details>
 <br>
 <img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
-<img src="https://img.shields.io/github/license/desenvjonathan/desenvjonathan?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="desenvjonathan repo license" height="40px" /> -->
+<img src="https://img.shields.io/github/license/GugaS1lva/GugaS1lva?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="GugaS1lva repo license" height="40px" />
