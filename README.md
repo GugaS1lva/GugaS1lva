@@ -20,7 +20,7 @@
     <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.<br><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar Desenvolvedor-Fullstack (Frontend, Backend e Mobile). 🔮</li><br>
 </ul>
-<br><br>
+<br><br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif" />
