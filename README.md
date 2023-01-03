@@ -434,11 +434,6 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&custom_title=GugaS1lva's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaS1lva&theme=tokyonight&hide_border=true">
 </div>
-<div align="center">
-  <a href="https://github.com/GugaS1lva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaS1lva&layout=compact&langs_count=6&theme=tokyonight">
-</div>
 </details>
 <br>
 <img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
