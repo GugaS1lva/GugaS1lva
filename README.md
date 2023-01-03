@@ -24,7 +24,7 @@
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
-<table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px; ">
+<table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px; margin: 0px 20px 0px 20px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
