@@ -1,5 +1,6 @@
 <img align="left" width="100%" alt="about" src="./images/guga-silva-web-developer.gif"/>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 <!-- <table align="center">
@@ -14,16 +15,16 @@
     </td>
   </tr>
 </table> -->
-<ul align="left">
-    <li>☕ Respiranto Tecnologia, "What makes you rich is work", café e códigos. ☕</li><br>
-    <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.<br>
+<ul align="left" style="padding-right: 340px">
+    <li>☕ Respiranto Tecnologia, café e códigos. "What makes you rich is work" ☕</li><br>
+    <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.<br><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar Desenvolvedor-Fullstack (Frontend, Backend e Mobile). 🔮</li><br>
 </ul>
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
-<table align="right" height="300px">
+<table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px; ">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
@@ -113,7 +114,7 @@
       <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt="materialui icon"/><br>
       <sub>
         <b>
-          <pre>Material-UI</pre>
+          <pre>Material<br>UI</pre>
         </b>
       </sub>
     </td>
@@ -155,7 +156,7 @@
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="StyledComponents icon"/><br>
       <sub>
         <b>
-          <pre>Styled-Components</pre>
+          <pre>Styled<br>Components</pre>
         </b>
       </sub>
     </td>
