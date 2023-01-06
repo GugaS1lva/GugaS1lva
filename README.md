@@ -1,6 +1,6 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <div align="center">
-  <img align="right" src="./images/guga_cyberpunk-01.png" width="313px" height="313px" alt="about me">
+  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="about me">
 
   <ul align="left" style="padding-right: 340px;">
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
@@ -13,7 +13,7 @@
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <div>
-  <img align="right" src="./images/guga_cyberpunk-02.png" height="365px" width="365px" alt="projects image">
+  <img align="right" src="./images/guga_cyberpunk-01.png" height="365px" width="365px" alt="projects image">
   
   <table height="365px" width="365px">
     <tr>
@@ -214,11 +214,10 @@
     </tr>
   </table>
 </div>
-<br>
+<br><br><br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/guga_cyberpunk-03.png" />
-
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
@@ -392,7 +391,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./images/cyberpunk-01.png" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt="anime coding">
 <br><br>
 
 <p align="center">
