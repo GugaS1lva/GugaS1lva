@@ -217,7 +217,7 @@
 <br><br><br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="275px" width="275px" alt="" src="./images/guga_cyberpunk-03.png" />
+<img align="left" height="295px" width="295px" alt="" src="./images/guga_cyberpunk-03.png" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
