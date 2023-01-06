@@ -214,7 +214,7 @@
     </tr>
   </table>
 </div>
-<br><br><br><br>
+<br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 <img align="left" height="275px" width="275px" alt="" src="./images/guga_cyberpunk-03.png" />
@@ -395,10 +395,10 @@
 <br><br>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="">
+  <a href="https://portfolio-guga-silva.vercel.app/cv/Curriculo-WebDeveloper-Gustavo-Silva.zip" alt="">
     <img src="./images/button/curriculo.svg" alt="">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "contatogustavosilva017@outlook.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="https://portfolio-guga-silva.vercel.app/" alt="" target="_blank">
     <img src="./images/button/portfolio.svg" alt="">
