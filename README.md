@@ -6,14 +6,14 @@
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
     <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮</li><br>
-    <li><i>"What makes you rich, is work!"</i></li><br>
+    <li><i>💴 "What makes you rich, is work!" 💴</i></li><br>
   </ul>
   <br><br><br><br>
 </div>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <div>
-  <img align="right" src="./images/guga_cyberpunk-01.png" height="345px" width="345px" alt="">
+  <img align="right" src="./images/cyber-03.png" height="345px" width="345px" alt="">
   
   <table height="365px" width="365px">
     <tr>
