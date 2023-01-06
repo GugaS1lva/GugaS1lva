@@ -1,6 +1,6 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <div align="center">
-  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="about me">
+  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
@@ -13,7 +13,7 @@
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <div>
-  <img align="right" src="./images/guga_cyberpunk-01.png" height="365px" width="365px" alt="projects image">
+  <img align="right" src="./images/guga_cyberpunk-01.png" height="345px" width="345px" alt="">
   
   <table height="365px" width="365px">
     <tr>
@@ -217,11 +217,11 @@
 <br><br><br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./images/guga_cyberpunk-03.png" />
+<img align="left" height="295px" width="300px" alt="" src="./images/guga_cyberpunk-03.png" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>React</pre>
@@ -229,7 +229,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Angular</pre>
@@ -237,7 +237,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=next" width="65px" alt="NextJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=next" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Next</pre>
@@ -245,7 +245,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>TypeScript</pre>
@@ -253,7 +253,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>JavaScript</pre>
@@ -263,7 +263,7 @@
   </tr>
   <tr>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="TailwindCSS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Tailwind</pre>
@@ -271,7 +271,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Node</pre>
@@ -279,7 +279,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="ViteJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Vite</pre>
@@ -287,7 +287,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="JestJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Jest</pre>
@@ -295,7 +295,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=redux" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Redux</pre>
@@ -305,7 +305,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt="materialui icon"/><br>
+      <img src="https://skillicons.dev/icons?i=materialui" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Material<br>UI</pre>
@@ -313,7 +313,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
@@ -321,7 +321,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Figma</pre>
@@ -329,7 +329,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -337,7 +337,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>CSS3</pre>
@@ -347,7 +347,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="StyledComponents icon"/><br>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
@@ -355,7 +355,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="SASS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>SASS</pre>
@@ -363,7 +363,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Github</pre>
@@ -371,7 +371,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>Git</pre>
@@ -379,7 +379,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt=" icon"/><br>
       <sub>
         <b>
           <pre>JQuery</pre>
@@ -391,28 +391,28 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt=" coding">
 <br><br>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
-    <img src="./images/button/curriculo.svg" alt="currículo">
+  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="">
+    <img src="./images/button/curriculo.svg" alt="">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:desenvjonathan@hotmail.com" alt="-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://portfolio-guga-silva.vercel.app/" alt="Portfólio" target="_blank">
-    <img src="./images/button/portfolio.svg" alt="Portfólio">
+  <a href="https://portfolio-guga-silva.vercel.app/" alt="" target="_blank">
+    <img src="./images/button/portfolio.svg" alt="">
   </a> 
-  <a href="https://www.linkedin.com/in/guga-silva-124706233" alt="Linkedin" target="_blank">
-    <img src="./images/button/linkedin.svg" alt="linkedin">
+  <a href="https://www.linkedin.com/in/guga-silva-124706233" alt="" target="_blank">
+    <img src="./images/button/linkedin.svg" alt="">
   </a>
-  <a href="https://wa.me/558281828018" alt="WhatsApp" target="_blank">
-    <img src="./images/button/whatsapp.svg" alt="Whatsapp">
+  <a href="https://wa.me/558281828018" alt="" target="_blank">
+    <img src="./images/button/whatsapp.svg" alt="">
   </a>
-  <a href="https://www.instagram.com/50repolhoscozidos/" alt="Instagram" target="_blank">
-    <img src="./images/button/instagram.svg" alt="Instagram">
+  <a href="https://www.instagram.com/50repolhoscozidos/" alt="" target="_blank">
+    <img src="./images/button/instagram.svg" alt="">
   </a>
-  <img src="./images/button/discord.svg" alt="discord">
+  <img src="./images/button/discord.svg" alt="">
 </p>
 <br><br><br>
 
@@ -432,5 +432,5 @@
 </details>
 <br>
 
-<img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
-<img  src="https://img.shields.io/github/license/GugaS1lva/GugaS1lva?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="GugaS1lva repo license" height="40px" />
+<img src="./images/heart.gif" alt="" height="40px" width="40px" />
+<img  src="https://img.shields.io/github/license/GugaS1lva/GugaS1lva?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="" height="40px" />
