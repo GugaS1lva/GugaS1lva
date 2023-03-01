@@ -6,7 +6,7 @@
     <li>☕ Tecnologia, café e códigos. ☕</li><br>
     <li>🚀 Sou um Desenvolvedor Frontend Júnior, ambicioso, hiperfocado e buscando crescer na área. Sempre fui um estudante/pesquisador autodidata em várias áreas (muitas colho benefícios até hoje) mas agora estou apontando tudo que tenho e me dedicando ao máximo ao ramo digital.</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar um Desenvolvedor completo (Frontend, Backend e Mobile). 🔮</li><br>
-    <li><i>💴 "What makes you rich, is work!" 💴</i></li><br>
+    <li><i>💴 "What enriches is work" 💴</i></li><br>
   </ul>
   <br><br><br><br>
 </div>
