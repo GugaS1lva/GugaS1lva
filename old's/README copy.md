@@ -1,6 +1,6 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <div align="center">
-  <img align="right" src="./images/gpt/Boy/Boy-01.png" width="313px" height="313px" alt="">
+  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li>☕ Technology, Coffee and Code. ☕</li><br>
@@ -13,7 +13,7 @@
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <div>
-  <img align="right" src="./images/gpt/DataCenter/DataCenter-01.png" height="345px" width="345px" alt="">
+  <img align="right" src="./images/cyber-03.png" height="345px" width="345px" alt="">
   
   <table height="365px" width="365px">
     <tr>
@@ -217,7 +217,7 @@
 <br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="275px" width="275px" alt="" src="./images/techs-01-tiny.png" />
+<img align="left" height="275px" width="275px" alt="" src="./images/guga_cyberpunk-03.png" />
 <table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
@@ -391,7 +391,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" src="./images/cyber-01.png" alt=" coding">
+<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt=" coding">
 <br><br>
 
 <p align="center">
