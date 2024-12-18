@@ -391,7 +391,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" src="./images/cyber-01.png" alt=" coding">
+<img align="left" width="220px" height="220px" src="./images/cyber-01.png" alt=" coding">
 <br><br>
 
 <p align="center">
