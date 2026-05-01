@@ -18,7 +18,7 @@
   <table height="365px" width="365px">
     <tr>
       <td>
-      <a href="https://github.com/GugaS1lva/Portfolio-GugaSilva" target="_blank">
+      <a href="" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GugaS1lva&repo=Portfolio-GugaSilva&theme=tokyonight&hide_border=true">
       </a>
       </td>
